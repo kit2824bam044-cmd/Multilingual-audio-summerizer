@@ -1,0 +1,3 @@
+# Multilingual audio text summarizer
+In this project, the user provides an audio file as input. First, a Speech-to-Text model converts the audio into text. Then, a Natural Language Processing (NLP) summarization algorithm analyzes the text and extracts the key points to generate a concise summary. Since the system supports multiple languages, users can easily understand audio content even if it is in a different language.
+This project is useful for students, researchers, and professionals who need to review long audio recordings quickly. Instead of listening to the entire audio, users can read the summarized version and save time while still getting the important information.
